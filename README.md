@@ -5,7 +5,7 @@ A self-directed, zero-budget roadmap to transition from a Computer Science backg
 ## About Me
 I'm Muhammad Shaz B (Shaz), a BE CSE graduate based in Kerala, India, currently working as a freelance full-stack developer. I'm building hands-on skills in IT Support, Systems, and Networking from the ground up — real commands, real hardware, real troubleshooting — rather than just theory.
 
-Connect with me: [LinkedIn](your-linkedin-url-here)
+Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammad-shaz-b-078539253/?isSelfProfile=true)
 
 ## Roadmap Structure
 - **Phase 1:** PC hardware, Windows tools, networking fundamentals, Cisco Packet Tracer, structured cabling, Linux/cloud basics, job prep
